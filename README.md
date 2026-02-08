@@ -1,10 +1,10 @@
-# 🧬 In Silico Design, Docking, and ADMET Profiling of Novel Azole Derivatives as Potential Lung Cancer Therapeutics
+# 🧬 In Silico Design, Docking, and ADMET Profiling of Novel Azole Derivatives as Potential Liver Cancer Therapeutics
 
 ## 🔍 Abstract
-Lung cancer remains one of the most lethal malignancies worldwide, driving continuous efforts toward the development of more effective and selective therapeutic agents.  
+Liver cancer remains one of the most lethal malignancies worldwide, driving continuous efforts toward the development of more effective and selective therapeutic agents.  
 This project focuses on the **computational design, molecular docking, and ADMET profiling** of **azole derivatives** as potential inhibitors of **VEGFR (PDB ID: 3U6J)** — a critical target in angiogenesis and tumor growth.  
 
-The compounds were derived from the study by *Abdelhameid et al.* (“Design, Synthesis, and Cytotoxic Screening of Novel Azole Derivatives on Hepatocellular Carcinoma (HepG2 Cells)”) and are now being repurposed and computationally evaluated for lung cancer therapy.  
+The compounds were derived from the study by *Abdelhameid et al.* (“Design, Synthesis, and Cytotoxic Screening of Novel Azole Derivatives on Hepatocellular Carcinoma (HepG2 Cells)”) and are now computationally evaluated for liver cancer therapy.  
 Docking simulations, ADMET predictions, and subsequent analyses aim to identify promising lead compounds for potential optimization and future experimental validation.
 
 ---
@@ -13,7 +13,7 @@ Docking simulations, ADMET predictions, and subsequent analyses aim to identify 
 1. To perform **molecular docking** of 27 azole derivatives and sorafenib against the VEGFR (3U6J) protein.  
 2. To evaluate the **binding affinity** and **interaction profiles** of each compound.  
 3. To carry out **ADMET and drug-likeness profiling** of top-performing ligands.  
-4. To identify promising **lead compounds** for further optimization and synthesis toward lung cancer inhibition.  
+4. To identify promising **lead compounds** for further optimization and synthesis toward liver cancer inhibition.  
 
 ---
 
@@ -130,5 +130,5 @@ Department of Chemistry, Kaduna State University
 ---
 
 ## ⚗️ Keywords
-*Azole derivatives, Sorafenib, VEGFR, Lung cancer, Molecular docking, ADMET, PyRx, Discovery Studio, In silico drug design*
+*Azole derivatives, Sorafenib, VEGFR, Liver cancer, Molecular docking, ADMET, PyRx, Discovery Studio, In silico drug design*
 
